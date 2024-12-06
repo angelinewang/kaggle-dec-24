@@ -1,0 +1,7 @@
+Categorical Variable,Continuous Variable,F-Statistic,P-Value,Significance
+Gender,Premium Amount,0.031098579467834984,0.8600206675595522,Not Significant
+Gender,Health Score,14.031802901400155,0.00017975369117880156,Significant
+Marital Status,Premium Amount,0.4774993826255757,0.6203327884908305,Not Significant
+Marital Status,Health Score,2.7556645372061714,0.06356719865527613,Not Significant
+Education Level,Premium Amount,1.1451051641302972,0.3292493566669069,Not Significant
+Education Level,Health Score,9.046331951729467,5.506102628194583e-06,Significant
